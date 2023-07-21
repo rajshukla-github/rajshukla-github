@@ -1,6 +1,5 @@
 ### Hi there 👋, RAJ SHUKLA
 #### MERN and Android Developer
-![MERN and Android Developer](https://media.licdn.com/dms/image/D5616AQFLTq_NyUe_Gg/profile-displaybackgroundimage-shrink_350_1400/0/1685182241657?e=1691020800&v=beta&t=NncTKf1vQkQQpDhH1wNu7kVAqmmxIpdYaaJbktI3e2g)
 
 I'm an enthusiastic "Web and App Developer" with almost 3 years of experience. I've collaborated with others on numerous projects/hackathons and completed personal projects in MERN stack.
 Coequally, I'm was involved in "Competitive Coding" with regularly participation in weekly and monthly competitions.
