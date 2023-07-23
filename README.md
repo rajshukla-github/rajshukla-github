@@ -8,9 +8,7 @@ I believe in my personal philosophy that "If data is the FUEL, then we are the E
 Skills: MongoDB || ExpressJS || ReactJS || NodeJS || JavaScript|| Java || Python || C++ || C
 
 
- [<img src='LinkedinBanner.png' height='100%'>]
-- 🌱 I’m currently learning MERN 
-
+ <img src='LinkedinBanner.png' height='100%'>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rajshukla-github)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rajshukla00/)  
 
