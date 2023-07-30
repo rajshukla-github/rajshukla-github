@@ -8,7 +8,7 @@ I believe in my personal philosophy that "If data is the FUEL, then we are the E
 
 
 
-Skills: HTML+CSS || JavaScript || MongoDB || ExpressJS || ReactJS || NodeJS || JavaScript|| Java || Python || C++ || C || Firebase || Java
+Skills: HTML+CSS || JavaScript || MongoDB || ExpressJS || ReactJS || NodeJS || JavaScript|| Java || Python || C++ || Java || Firebase|| C
 
 
  <img src='LinkedinBanner.png'>
